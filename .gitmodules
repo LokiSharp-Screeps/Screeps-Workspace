@@ -1,0 +1,25 @@
+[submodule "packages/ScreepsScript"]
+	path = packages/ScreepsScript
+	url = git@github.com:LokiSharp/ScreepsScript.git
+
+[submodule "packages/screeps"]
+	path = packages/screeps
+	url = git@github.com:LokiSharp-Screeps/screeps.git
+[submodule "packages/launcher"]
+	path = packages/launcher
+	url = git@github.com:LokiSharp-Screeps/launcher.git
+[submodule "packages/storage"]
+	path = packages/storage
+	url = git@github.com:LokiSharp-Screeps/storage.git
+[submodule "packages/backend-local"]
+	path = packages/backend-local
+	url = git@github.com:LokiSharp-Screeps/backend-local.git
+[submodule "packages/engine"]
+	path = packages/engine
+	url = git@github.com:LokiSharp-Screeps/engine.git
+[submodule "packages/driver"]
+    path = packages/driver
+    url = git@github.com:LokiSharp-Screeps/driver.git
+[submodule "packages/common"]
+	path = packages/common
+	url = git@github.com:LokiSharp-Screeps/common.git
